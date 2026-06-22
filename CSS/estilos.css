@@ -1,0 +1,25 @@
+p {
+  /*Color de fondo*/
+  background-color: crimson;
+  /* Color de texto */
+  color: blanchedalmond;
+  /* Tamaño de texto */
+  font-size: 24px;
+  /*  Familia tipografica */
+  font-family: Arial, Helvetica, sans-serif;
+  /* Ancho */
+  width: 100px;
+  /* alto */
+  height: 100px;
+}
+/*Seleccionando una clase*/
+.parrafo-personalizado {
+  background-color: forestgreen;
+}
+/*Seleccionando un ID*/
+#texto-especial {
+  background-color: beige;
+}
+.texto-azul {
+  background-color: blue;
+}
