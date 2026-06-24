@@ -1,0 +1,23 @@
+*{  
+  margin: 0;
+  padding: 0;
+}
+
+img{
+  height: 250px;
+  width: 400px;
+}
+
+.desarrollo{  
+  display: flex;
+  gap: 20px;
+  padding: 20px;
+}
+
+.encabezados{
+  display: column;
+  gap: 15px;
+  background-color: antiquewhite;
+  border: 25px;
+  border-width: 25px;
+}
